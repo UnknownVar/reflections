@@ -1,0 +1,6 @@
+Stupid question 1: 
+Answer: There are better methods for diffing files
+
+Stupid Question 2: Access to all make you more efficient
+Answer: Probably not, although short term of 30 days probably. 
+And more importantly last known good and currently working would be helpdful.
